@@ -316,7 +316,7 @@ function Run-DownloadedDataCleanup {
 
 Write-Host ""
 Write-Host "==========================================================" -ForegroundColor Cyan
-Write-Host "   PORTABLE AI UNINSTALLER                                " -ForegroundColor Cyan
+Write-Host "   TIGER AI UNINSTALLER                                   " -ForegroundColor Cyan
 Write-Host "==========================================================" -ForegroundColor Cyan
 Write-Host ""
 Write-Host "  [1] Remove selected model(s) (one / many / all)" -ForegroundColor Yellow
