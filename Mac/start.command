@@ -1,10 +1,10 @@
 #!/bin/bash
 # ===================================================
-#  Portable AI - Fast Web Chat (Mac)
+#  TIGER AI - Fast Web Chat (Mac)
 # ===================================================
 
 echo "==================================================="
-echo "    Portable AI - Fast Web Chat Mode (Mac)"
+echo "    TIGER AI - Fast Web Chat Mode (Mac)"
 echo "==================================================="
 echo ""
 echo "  Launches the AI engine + browser chat UI."
