@@ -1,9 +1,9 @@
 @echo off
-title Portable AI - Fast Web Chat
+title TIGER AI - Fast Web Chat
 color 0B
 
 echo ===================================================
-echo     Portable AI - Fast Web Chat Mode
+echo     TIGER AI - Fast Web Chat Mode
 echo ===================================================
 echo.
 echo  Launches the AI engine + browser chat UI.
