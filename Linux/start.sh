@@ -4,7 +4,7 @@
 # ===================================================
 
 echo "==================================================="
-echo "    Portable AI - Fast Web Chat Mode (Linux)"
+echo "    TIGER AI - Fast Web Chat Mode (Linux)"
 echo "==================================================="
 echo ""
 echo "  Launches the AI engine + browser chat UI."
