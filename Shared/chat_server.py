@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Portable AI Chat Server
+TIGER AI Chat Server
 =======================
 A zero-dependency Python HTTP server that:
   1. Serves the FastChatUI.html web interface
@@ -408,7 +408,7 @@ def ensure_data_dir():
             )
 
 class ChatHandler(http.server.BaseHTTPRequestHandler):
-    """Handles all HTTP requests for the Portable AI Chat."""
+    """Handles all HTTP requests for the TIGER AI Chat."""
 
     def _build_request_context(self, api_source):
         headers = {}
@@ -900,7 +900,7 @@ def main():
 
     print()
     print("=" * 55)
-    print("  Portable AI — Chat Server")
+    print("  TIGER AI — Chat Server")
     print("=" * 55)
     print()
     print(f"  Local Access:    http://localhost:{CHAT_SERVER_PORT}")
