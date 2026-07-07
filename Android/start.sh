@@ -1,10 +1,10 @@
 #!/data/data/com.termux/files/usr/bin/bash
 # ===================================================
-#  Portable AI - Android (Llama.cpp Engine)
+#  Tiger AI - Android (Llama.cpp Engine)
 # ===================================================
 
 echo "==================================================="
-echo "    Portable AI - Android Native Launcher"
+echo "    Tiger AI - Android Native Launcher"
 echo "==================================================="
 echo ""
 echo "  Launches the natively compiled AI engine"
