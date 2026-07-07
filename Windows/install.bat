@@ -3,7 +3,7 @@ title Portable AI - Setup
 color 0E
 
 echo ===================================================
-echo     PORTABLE AI - USB SETUP
+echo     TIGER AI - USB SETUP
 echo ===================================================
 echo.
 echo  This will download and configure AI models onto
