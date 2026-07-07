@@ -1,9 +1,9 @@
 @echo off
-title Portable AI - Uninstaller
+title TIGER AI - Uninstaller
 color 0C
 
 echo ===================================================
-echo     PORTABLE AI - UNINSTALLER
+echo     TIGER AI - UNINSTALLER
 echo ===================================================
 echo.
 echo  This removes installed models and downloaded data
