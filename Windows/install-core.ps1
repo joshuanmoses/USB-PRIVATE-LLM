@@ -1,5 +1,5 @@
 # ================================================================
-# PORTABLE UNCENSORED AI - AUTOMATED USB SETUP SCRIPT
+# TIGER UNCENSORED AI - AUTOMATED USB SETUP SCRIPT
 # ================================================================
 # Multi-Model Edition: Choose one or more AI models to install!
 # Supports preset models + custom HuggingFace GGUF downloads.
@@ -68,7 +68,7 @@ function Test-DownloadedFile {
 # ================================================================
 Write-Host ""
 Write-Host "==========================================================" -ForegroundColor Cyan
-Write-Host "   PORTABLE AI USB - Multi-Model Setup                    " -ForegroundColor Cyan
+Write-Host "   TIGER AI USB - Multi-Model Setup                       " -ForegroundColor Cyan
 Write-Host "==========================================================" -ForegroundColor Cyan
 Write-Host ""
 
@@ -544,7 +544,7 @@ if ($downloadErrors.Count -gt 0) {
     Write-Host ""
     Write-Host "  You can re-run install.bat to retry failed downloads." -ForegroundColor Yellow
 } else {
-    Write-Host "   SETUP COMPLETE! YOUR PORTABLE AI IS READY!             " -ForegroundColor Green
+    Write-Host "   SETUP COMPLETE! YOUR TIGER AI IS READY!             " -ForegroundColor Green
     Write-Host "==========================================================" -ForegroundColor Cyan
 }
 
