@@ -1,6 +1,6 @@
 #!/bin/bash
 # ================================================================
-#  PORTABLE UNCENSORED AI - Linux Setup Script
+#  TIGER UNCENSORED AI - Linux Setup Script
 # ================================================================
 #  Multi-Model Edition: Choose one or more AI models to install!
 #  Supports preset models + custom HuggingFace GGUF downloads.
@@ -91,7 +91,7 @@ free_gb() {
 # ================================================================
 echo ""
 echo -e "${CYN}==========================================================${RST}"
-echo -e "${CYN}   PORTABLE AI USB - Multi-Model Setup (Linux)            ${RST}"
+echo -e "${CYN}   TIGER AI USB - Multi-Model Setup (Linux)            ${RST}"
 echo -e "${CYN}==========================================================${RST}"
 echo ""
 
